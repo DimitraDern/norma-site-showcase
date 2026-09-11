@@ -110,7 +110,7 @@ export default {
 - **Accessible focus states** - visible focus outlines on all interactive elements for keyboard navigation
 - **Custom scrollbar handling** for the horizontal product carousel
 
-## 📸 Screenshots
+##  Screenshots
  <img width="1896" height="1077" alt="image" src="https://github.com/user-attachments/assets/80c9924a-8534-42eb-8bc6-7022e46b7e04" />
 
 *Picture 1: Hero section*
